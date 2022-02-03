@@ -1,0 +1,129 @@
+body {
+  text-align: center;
+
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 120px;
+  line-height: normal;
+  color: #046582;
+}
+
+h2 {
+  line-height: 2rem;
+  color: #008891;
+}
+
+h3 {
+  line-height: 2;
+  color: #219F94;
+}
+
+.mountain {
+  position: relative;
+  top: 3px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #9AD0EC;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.middle-container {}
+
+a {
+  transition: color .5s;
+  color: #11999E;
+}
+
+a:hover {
+  color: #F4F6FF;
+}
+
+.prog {
+  font-weight: normal;
+  line-height: 2rem;
+  font-size: 2.5rem;
+}
+.skills{
+  background-color:#F7F7F7;
+}
+.profile{
+
+  line-height: 2;
+  margin: 10rem 20rem 0 20rem;
+}
+
+.computer {
+  width: 25%;
+  margin: 0 30px 0 30px;
+  float: right;
+}
+
+.chillies {}
+
+.multi {
+  width: 25%;
+  float: left;
+  margin: 0 30px 0 auto;
+}
+
+.bottom-container {
+  margin: 30px auto 0 auto;
+  background-color: #66BFBF;
+  padding: 30px 0 30px 0;
+}
+
+
+
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  margin: 10rem 20rem 0 20rem;
+}
+
+.contact-me {}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.adresse-mail{
+  color:white;
+  margin-top: 30px;
+}
